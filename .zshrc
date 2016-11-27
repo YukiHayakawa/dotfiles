@@ -17,7 +17,6 @@ export MANPAGER=/usr/local/bin/vimpager
 
 # nodebrew
 export PATH=$HOME/.nodebrew/current/bin:$PATH
-
 # -------------------------------------
 # zshのオプション
 # -------------------------------------
